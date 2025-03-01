@@ -1,0 +1,10 @@
+src/
+├── components/
+│   ├── Map.js
+│   ├── SearchBar.js
+│   ├── PatientGroupList.js
+├── App.js
+├── index.js
+├── styles/
+│   ├── App.css
+│   ├── Map.css
